@@ -1,0 +1,4 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/acercade" android:title="Acerca de" android:icon="@drawable/info"></item>
+    <item android:id="@+id/salir" android:title="Salir" android:icon="@drawable/salir"></item>
+</menu>

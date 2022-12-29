@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Cantos Espirituales</string>
+    <string name="salir">Salir</string>
+    <string name="acercade">Acerca de</string>
+    <string name="autor">Desarrollado por: Aguirre Álvarez Gilberto A.</string>
+    <string name="empresa">AshiSoft Corp.</string>
+    <string name="cliente">Iglesia de Cristo en Apaseo el Alto</string>
+    <string name="version">1.2.1</string>
+    <string name="plataforma">Plataforma: Android 2.2+</string>
+    <string name="web">http://ashisoft.besaba.com</string>
+</resources>
